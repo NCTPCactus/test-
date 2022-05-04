@@ -2,4 +2,6 @@ Test :
 
 
 
-git clone https://github.com/NCTPCactus/NCTPCactus.github.io
+git clone NCTPCactus.github.io/test-
+
+(https://sivelswhy.github.io/George-Boole/)
